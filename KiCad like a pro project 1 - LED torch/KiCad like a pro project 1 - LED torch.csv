@@ -1,0 +1,23 @@
+"Source:","C:\Users\crtak\Documents\Projecten\KiCad like a pro course\KiCad like a pro project 1 - LED torch\KiCad like a pro project 1 - LED torch.kicad_sch"
+"Date:","14/07/2022 16:50:18"
+"Tool:","Eeschema (6.0.6)"
+"Generator:","C:\Program Files\KiCad\6.0\bin\scripting\plugins/bom_csv_grouped_by_value.py"
+"Component Count:","4"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"","","BT1","Battery_Cell","Device:Battery_Cell","Battery:BatteryHolder_Keystone_1058_1x2032","~"
+"","","D1","LED","Device:LED","LED_THT:LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm","~"
+"","","R1","R","Device:R","Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P15.24mm_Horizontal","~"
+"","","SW1","SW_DPST_x2","Switch:SW_DPST_x2","Button_Switch_THT:SW_TH_Tactile_Omron_B3F-10xx","~"
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"1","1","BT1","Battery_Cell","Device:Battery_Cell","Battery:BatteryHolder_Keystone_1058_1x2032","~"
+"2","1","D1","LED","Device:LED","LED_THT:LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm","~"
+"3","1","R1","R","Device:R","Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P15.24mm_Horizontal","~"
+"4","1","SW1","SW_DPST_x2","Switch:SW_DPST_x2","Button_Switch_THT:SW_TH_Tactile_Omron_B3F-10xx","~"
