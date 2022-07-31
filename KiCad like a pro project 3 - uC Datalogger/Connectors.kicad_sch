@@ -343,6 +343,7 @@
   )
 
 
+
   (symbol (lib_id "Connector_Generic:Conn_02x03_Odd_Even") (at 196.85 124.714 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 251cc853-bf0f-49aa-8933-dd1f5c9c20f6)
