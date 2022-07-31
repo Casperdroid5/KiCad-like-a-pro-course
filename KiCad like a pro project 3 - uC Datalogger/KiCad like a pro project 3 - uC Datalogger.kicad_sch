@@ -5,9 +5,10 @@
   (paper "A4")
 
   (title_block
-    (title "&(project_name)")
-    (date "2022-07-29")
-    (rev "1")
+    (title "MCU Datalogger")
+    (date "2022-07-31")
+    (rev "V1.0")
+    (comment 1 "Casper Tak")
   )
 
   (lib_symbols
