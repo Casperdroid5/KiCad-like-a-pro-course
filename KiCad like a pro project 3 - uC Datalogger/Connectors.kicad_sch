@@ -1,6 +1,6 @@
 (kicad_sch (version 20211123) (generator eeschema)
 
-  (uuid a3ffcc3d-d2cc-4c2b-835d-e125c75bd3ba)
+  (uuid 32e98470-901e-47e9-ac06-c3aee650e430)
 
   (paper "A4")
 
@@ -343,18 +343,18 @@
   )
 
 
-  (symbol (lib_id "Connector_Generic:Conn_02x03_Odd_Even") (at 203.454 124.206 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+  (symbol (lib_id "Connector_Generic:Conn_02x03_Odd_Even") (at 196.85 124.714 0) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid 251cc853-bf0f-49aa-8933-dd1f5c9c20f6)
-    (property "Reference" "J?" (id 0) (at 204.724 115.57 0))
-    (property "Value" "Conn_02x03_Odd_Even" (id 1) (at 204.724 118.11 0))
-    (property "Footprint" "" (id 2) (at 203.454 124.206 0)
+    (property "Reference" "J?" (id 0) (at 198.12 116.078 0))
+    (property "Value" "Conn_02x03_Odd_Even" (id 1) (at 198.12 118.618 0))
+    (property "Footprint" "" (id 2) (at 196.85 124.714 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (id 3) (at 203.454 124.206 0)
+    (property "Datasheet" "~" (id 3) (at 196.85 124.714 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Purpose" "ICSP" (id 4) (at 203.454 124.206 0))
+    (property "Purpose" "ICSP" (id 4) (at 196.85 124.714 0))
     (pin "1" (uuid 3c4cc5b1-9ba6-40f3-9ea7-6d80e59e7e18))
     (pin "2" (uuid de7ed7e5-25cf-48ba-b165-afa568705982))
     (pin "3" (uuid 9d63fe86-e187-44f4-9e60-e61d8748ff7d))

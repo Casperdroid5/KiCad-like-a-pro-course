@@ -1182,10 +1182,10 @@
   )
 
   (symbol (lib_id "Regulator_Linear:LM317_TO-220") (at 63.0428 67.4878 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes)
     (uuid 02245796-977a-4285-96df-2651411ca55d)
-    (property "Reference" "U1" (id 0) (at 63.0428 59.8678 0))
-    (property "Value" "LM317_TO-220" (id 1) (at 63.0428 62.4078 0))
+    (property "Reference" "U1" (id 0) (at 67.056 61.214 0))
+    (property "Value" "LM317_TO-220" (id 1) (at 67.564 63.5 0))
     (property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical" (id 2) (at 63.0428 61.1378 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
